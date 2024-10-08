@@ -1,6 +1,6 @@
 @AnimalRest_HostAddress = http://localhost:5096
 
-GET {{AnimalRest_HostAddress}}/weatherforecast/
+GET {{AnimalRest_HostAddress}}/api/animals
 Accept: application/json
 
 ###
